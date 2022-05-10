@@ -17,7 +17,7 @@ To generate E-R social graph, first you need to config the variable `mu` and `us
 python generate_data.py
 ```
 
-Then, copy the value of E-R social graph into `self.V['relationship']` in `env_setting.py`, and config other evnironment parameters there. 
+Then, copy the value of E-R social graph into `self.V['relationship']` in `env_setting.py`, and config other environment parameters there. 
 
 After that, run the training and testing process by
 
