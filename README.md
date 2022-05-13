@@ -1,9 +1,8 @@
 # DRL-SIM
 This is the code accompanying the paper: "Social-Aware Incentive Mechanism for Vehicular Crowdsensing by Deep Reinforcement Learning" by Yinuo Zhao and Chi Harold Liu, published at TITS. 
 
+## Description
 This simplified code implements a DRL-based social-aware incentive mechanism to solve the optimal sensing strategy for all vehicles in vehicular crowdsensing. 
-
-For questions or comments, feel free to submit an issue.
 
 ## Dependencies
 
@@ -26,6 +25,9 @@ python train.py --root-path [PATH to where to save results file and model] --use
 ```
 
 Finally, find the training and testing results under `--root-path`
+
+## Contact
+If you have any question, please email `ynzhao@bit.edu.cn`.
 
 ## Paper
 
